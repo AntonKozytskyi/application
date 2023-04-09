@@ -1,0 +1,4 @@
+apple: 200
+orange: 150
+avocado: 80
+banana: 230
